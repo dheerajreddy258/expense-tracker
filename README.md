@@ -12,7 +12,7 @@ A simple expense tracking application built with React, allowing users to add ex
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/expense-tracker.git`
+1. Clone the repository
 2. Navigate to the project directory: `cd expense-tracker`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
